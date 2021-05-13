@@ -1,5 +1,5 @@
 from django.db import models
-
+#yerethhhh
 # Create your models here.
 class Proveedor(models.Model):
     ruc = models.CharField(max_length=11)
